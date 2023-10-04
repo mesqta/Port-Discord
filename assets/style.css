@@ -322,11 +322,6 @@ video {
     --un-backdrop-sepia: ;
 }
 
-/*
-    Error: API Error 
-    Details: Please specify a valid font on the 'family' parameter. 
-*/
-
 .i-octicon-mark-instagram-16 {
     --un-icon: url("https://img.icons8.com/material-rounded/24/instagram-new.png");
     mask: var(--un-icon) no-repeat;
