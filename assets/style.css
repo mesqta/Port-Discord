@@ -322,6 +322,39 @@ video {
     --un-backdrop-sepia: ;
 }
 
+.i-octicon-mark-spotify-16 {
+    --un-icon: url("https://img.icons8.com/ios-filled/50/spotify.png");
+    mask: var(--un-icon) no-repeat;
+    mask-size: 100% 100%;
+    -webkit-mask: var(--un-icon) no-repeat;
+    -webkit-mask-size: 100% 100%;
+    background-color: currentColor;
+    width: 1em;
+    height: 1em;
+}
+
+.i-octicon-mark-genshin-16 {
+    --un-icon: url("https://img.icons8.com/ios/50/genshin-impact-logo.png");
+    mask: var(--un-icon) no-repeat;
+    mask-size: 100% 100%;
+    -webkit-mask: var(--un-icon) no-repeat;
+    -webkit-mask-size: 100% 100%;
+    background-color: currentColor;
+    width: 1em;
+    height: 1em;
+}
+
+.i-octicon-mark-steam-16 {
+    --un-icon: url("https://img.icons8.com/ios-filled/50/steam.png");
+    mask: var(--un-icon) no-repeat;
+    mask-size: 100% 100%;
+    -webkit-mask: var(--un-icon) no-repeat;
+    -webkit-mask-size: 100% 100%;
+    background-color: currentColor;
+    width: 1em;
+    height: 1em;
+}
+
 .i-octicon-mark-instagram-16 {
     --un-icon: url("https://img.icons8.com/material-rounded/24/instagram-new.png");
     mask: var(--un-icon) no-repeat;
